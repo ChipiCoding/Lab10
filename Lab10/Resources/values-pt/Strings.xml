@@ -3,6 +3,8 @@
   <string name="ApplicationName">Localização do Android</string>
   <string name="ButtonText">Olá mundo, clique em mim!</string>
   <string name="ContentHeader">Conteúdo do curso (espanhol)</string>
+  <string name="Email">Correio</string>
+  <string name="Password">Senha</string>
   <plurals name="numbersOfClicks">
     <item quantity="one">Há %d Clique.</item>
     <item quantity="other">Há %d Cliques.</item>
