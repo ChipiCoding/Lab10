@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Android Localization</string>
+  <string name="ButtonText">Hello World, Click Me!</string>
+  <string name="ContentHeader">Course content (spanish)</string>
+  <plurals name="numbersOfClicks">
+    <item quantity="one">There is  %d Click.</item>
+    <item quantity="other">There are  %d Click.</item>
+  </plurals>
+</resources>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SelectedDevice>VisualStudio_android-23_arm_phone</SelectedDevice>
+    <DefaultDevice>VisualStudio_android-23_arm_phone</DefaultDevice>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <ProjectGuid>{0A1829E1-834A-4157-89C3-CE255427C460}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Assets\AboutAssets.txt" />
+    <Content Include="Assets\Contenido.txt" />
+    <Content Include="Properties\AndroidManifest.xml" />
+    <Content Include="Resources\AboutResources.txt" />
+    <Content Include="Resources\drawable-en\XamarinDiplomado.jpg" />
+    <Content Include="Resources\drawable-pt\XamarinDiplomado.jpg" />
+    <Content Include="Resources\drawable\Icon.png" />
+    <Content Include="Resources\drawable\XamarinDiplomado.jpg" />
+    <Content Include="Resources\raw-en\sound.mp3" />
+    <Content Include="Resources\raw-pt\sound.mp3" />
+    <Content Include="Resources\raw\sound.mp3" />
+    <Content Include="Resources\values-en\String.xml" />
+    <Content Include="Resources\values-pt\Strings.xml" />
+    <Content Include="Resources\values\Strings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="ValidateActivity.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="GettingStarted.Xamarin" />
+    <None Include="packages.config" />
+    <None Include="Resources\layout\Main.axml" />
+    <None Include="Resources\layout\Validate.axml" />
+  </ItemGroup>
+</Project>
